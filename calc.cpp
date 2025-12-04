@@ -36,3 +36,27 @@ void welcome() {
 void help() {
     cout << "帮助：输入两个数字进行计算" << endl;
 }
+
+exit
+quit
+cat >> calc.cpp << 'EOF'
+
+// 张三添加：欢迎函数
+void welcome() {
+    cout << "欢迎使用计算器！" << endl;
+}
+
+// 张三添加：欢迎函数
+void welcome() {
+    cout << "欢迎使用计算器！" << endl;
+}
+
+// 张三添加：欢迎函数
+void welcome() {
+    cout << "欢迎使用计算器！" << endl;
+}
+
+// 张三添加：欢迎函数
+void welcome() {
+    cout << "欢迎使用计算器！" << endl;
+}
