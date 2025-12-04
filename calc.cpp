@@ -36,3 +36,8 @@ void welcome() {
 void help() {
     cout << "帮助：输入两个数字进行计算" << endl;
 }
+
+// 李四添加：帮助函数
+void help() {
+    cout << "帮助：输入两个数字进行计算" << endl;
+}
